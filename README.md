@@ -11,7 +11,8 @@ Tenho grande satisfação em fazer parte da empresa e contribuir com soluções 
 ## 🚀 Experiência Profissional
 
 ### 🏢 New Standard Software  
-**Cargo:** Analista de Implantação  
+**Cargo:** Analista de Implantação  [Mapa de Habilidade Dio Roberth.pdf](https://github.com/user-attachments/files/26363827/Mapa.de.Habilidade.Dio.Roberth.pdf)
+
 
 **Principais responsabilidades:**
 - Condução de reuniões de onboarding com novos clientes  
